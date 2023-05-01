@@ -3,5 +3,5 @@
 
 int main(void)
 {
-    
+   x= get_int("what's x?");
 }
