@@ -3,5 +3,5 @@
 
 int main(void)
 {
-    
+    get_char("do you agree?");
 }
